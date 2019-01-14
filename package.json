@@ -1,5 +1,5 @@
 {
-  "name": "nitro-sorcerers-adventure",
+  "name": "react-app",
   "version": "1.0.0",
   "description": "rpg game of awesomeness",
   "main": "server.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShmouG/nitro-daily.git"
+    "url": "git+https://github.com/ShmouG/react-app"
   },
   "author": "Nitro Sorcerers",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShmouG/nitro-daily/issues"
+    "url": "https://github.com/ShmouG/react-app/issues"
   },
-  "homepage": "https://github.com/ShmouG/nitro-daily#readme",
+  "homepage": "https://github.com/ShmouG/react-app#readme",
   "dependencies": {
     "concurrently": "^4.1.0",
     "express": "^4.16.4",
